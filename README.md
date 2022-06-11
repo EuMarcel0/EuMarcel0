@@ -1,4 +1,4 @@
-### Olá, sou o Marcelo Silva. Prazer em conhecê-lo(a). 
+### Hi, i am Marcelo Silva. Pleasure to meet you
 
 - 🌱 Today i'am studing ReactJs + TypeScript.
 
