@@ -1,6 +1,6 @@
 ### Olá, sou o Marcelo Silva. Prazer em conhecê-lo(a). 
 
-- 🌱 Atualmente estou estudando ReactJs + TypeScript
+- 🌱 Today i'am studing ReactJs + TypeScript.
 
 
 <div style="display: inline_block"><br>
