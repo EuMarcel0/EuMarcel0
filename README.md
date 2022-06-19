@@ -1,6 +1,7 @@
 ### Hi, i am Marcelo Silva. Pleasure to meet you
 
-- 🌱 Today i'am studing ReactJs + TypeScript.
+- 💻 Front-end developer.
+- 😍 Lover of technology.
 
 
 <div style="display: inline_block"><br>
