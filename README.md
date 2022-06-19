@@ -1,4 +1,4 @@
-### Hi, i am Marcelo Silva. Pleasure to meet you
+### Hi, i am Marcelo Silva. Nice to meet you
 
 - 💻 Front-end developer.
 - 😍 Lover of technology.
