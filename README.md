@@ -15,7 +15,8 @@
 </div>
 
 ##
-
+<p align="center">Contact me:</p>
+<hr/>
 
 
 <p align="center">
