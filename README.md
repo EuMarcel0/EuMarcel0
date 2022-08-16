@@ -1,6 +1,6 @@
 ### Hi, i am Marcelo Silva. Nice to meet you
 
-- 💻 Jr Front-end developer.
+- 💻 Front-end developer.
 - 😍 Lover of technology.
 
 
