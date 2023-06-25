@@ -1,6 +1,6 @@
 ### Hi! Nice to meet you
 
-- 💻 Front-end developer.
+- 💻 Front-end and mobile developer.
 - 😍 Lover of technology.
 
 
